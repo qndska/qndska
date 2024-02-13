@@ -29,12 +29,6 @@
       <a href="#program">
         <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#program">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" width="48" height="48" alt="Dart" />
-      </a>
       <br>Dart
     </td>
     <td align="center" width="96">
@@ -60,15 +54,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="program">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#program" >
         <img src="https://www.svgrepo.com/show/349342/docker.svg" width="48" height="48" alt="Docker" />
