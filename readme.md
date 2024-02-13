@@ -4,7 +4,7 @@
 - 🌱 I’m studying in the Faculty of ICT at Mahidol University
 - 💡 I'm currently learning Flutter
 - 🍀 Check out my repositories for some interesting projects!
-- :computer: &nbsp;Connect with me on **[LinkedIn]([https://www.linkedin.com/in/sasasuang-pattanakitjaroenchai-8252b9263])**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/sasasuang-pattanakitjaroenchai-8252b9263)**
 
 <h2 align="left" id="macropower-tech"> My Favorite Tech </h2>
 
