@@ -79,7 +79,7 @@
       </a>
       <br>Matlab
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <a href="#program" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"  height="48" alt="Flutter" />
       </a>
