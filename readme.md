@@ -48,6 +48,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
+       </td>
     <td align="center" width="96"> 
       <a href="#program" >
         <img src="https://www.svgrepo.com/show/349342/docker.svg" width="48" height="48" alt="Docker" />
